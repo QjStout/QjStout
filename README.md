@@ -3,9 +3,9 @@
 
 ### 🚧 I'm currently working on ...
 - A new CodeSydney [website](https://code-dot-sydney.netlify.app/). 
-[code](https://github.com/codesydney/codesydney)
+Code [here](https://github.com/codesydney/codesydney).
 - Strataly. A strata managment system being created as an internal CodeSydney project. I'm primarily responsible for the REST API. 
-[code](https://github.com/codesydney/strataly)
+Code [here](https://github.com/codesydney/strataly).
 
 ### 💡 I'm currently thinking about a/an ...
 - opinionated personal development tracker.
