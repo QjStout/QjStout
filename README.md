@@ -5,7 +5,7 @@
 - A new CodeSydney [website](https://code-dot-sydney.netlify.app/). 
 Code [here](https://github.com/codesydney/codesydney).
 - Strataly. A strata managment system being created as an internal CodeSydney project. I'm primarily responsible for the REST API. 
-Code [here](https://github.com/codesydney/strataly).
+Backend code [here](https://github.com/codesydney/strataly/tree/master/Web/server/back-end).
 
 ### 💡 I'm currently thinking about a/an ...
 - opinionated personal development tracker.
