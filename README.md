@@ -8,7 +8,7 @@
 ### 💡 I'm currently thinking about a/an ...
 - opinionated personal development tracker.
 - personal/family banking interaction layers built on the new open banking regulations.
-- Scaffolded coding tutorials to .
+- Scaffolded coding tutorials.
 
 ### 🎓 Courses I've completed ...
 - Bachelor of Computer Science (Software Engineering) from Edith Cowan University, Western Australia.
