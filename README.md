@@ -2,7 +2,7 @@
 #### 🔉 kew-jay
 
 ### 🚧 I'm currently working on ...
-- A new CodeSydney [website](https://code-dot-sydney.netlify.app/ "New CodeSydney Website). [repo](https://github.com/codesydney/codesydney)
+- A new CodeSydney [website](https://code-dot-sydney.netlify.app/). [repo](https://github.com/codesydney/codesydney)
 - Strataly. A strata managment system being created as an internal CodeSydney project. I'm primarily responsible for the REST API. [repo](https://github.com/codesydney/strataly)
 
 ### 💡 I'm currently thinking about a/an ...
