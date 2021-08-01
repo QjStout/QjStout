@@ -1,5 +1,5 @@
 # Hi, I'm Qj 👋
-#### 🔉 kew-jay
+#### 🔉 kyou-jay
 
 ### 🚧 I'm currently working on ...
 - A new CodeSydney [website](https://code-dot-sydney.netlify.app/). 
