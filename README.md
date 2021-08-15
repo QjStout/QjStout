@@ -7,4 +7,3 @@
 ### 🎓 Courses I've completed ...
 - Bachelor of Computer Science (Software Engineering) from Edith Cowan University, Western Australia.
 - Intro to Vue & Real World Vue on [Vue Mastery](https://www.vuemastery.com/courses-path/beginner/).
-- [Weather app with Vue JS & Quasar](https://www.udemy.com/course/weather-app-vue-js-quasar/).
